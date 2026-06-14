@@ -1,0 +1,25 @@
+Copyright (c) 2026 junhyeong9812
+
+이 저장소의 문서(한글 해설 텍스트 및 ASCII 다이어그램)는
+Creative Commons Attribution 4.0 International (CC BY 4.0) 라이선스로 제공됩니다.
+
+  - 요약: https://creativecommons.org/licenses/by/4.0/
+  - 전문: https://creativecommons.org/licenses/by/4.0/legalcode
+
+자유롭게 공유·수정·재배포할 수 있으며, 적절한 출처 표시를 해야 합니다.
+
+------------------------------------------------------------------------
+
+[출처 및 2차 저작물 고지]
+
+이 문서는 Spring Security 소스 코드를 분석해 작성한 학습용 2차 저작물(해설)입니다.
+  - 원본: https://github.com/spring-projects/spring-security  (Spring Security 7.1.1-SNAPSHOT)
+  - 원본 "Spring Security"는 Apache License 2.0 하에 배포됩니다.
+  - Copyright (c) 2002-2026 the original author or authors
+    (VMware/Broadcom 및 기여자들).
+  - Apache License 2.0 전문: https://www.apache.org/licenses/LICENSE-2.0
+
+문서에 인용·발췌된 코드 조각의 저작권과 라이선스는 위 Apache License 2.0을 따릅니다.
+
+"Spring" 및 관련 상표는 각 권리자의 자산입니다. 본 저장소는 비공식 학습 자료이며
+Spring 프로젝트 또는 Broadcom과 어떠한 제휴·보증 관계도 없습니다.
